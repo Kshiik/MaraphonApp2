@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaraphonApp", "MaraphonApp\MaraphonApp.csproj", "{DC1C71A9-18AF-4F1A-9171-8405B48DCDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControllerTests", "UserControllerTests\UserControllerTests.csproj", "{4A9D5F72-6033-4F0C-BE9B-B69B1F3EEB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1C71A9-18AF-4F1A-9171-8405B48DCDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1C71A9-18AF-4F1A-9171-8405B48DCDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1C71A9-18AF-4F1A-9171-8405B48DCDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1C71A9-18AF-4F1A-9171-8405B48DCDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9D5F72-6033-4F0C-BE9B-B69B1F3EEB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9D5F72-6033-4F0C-BE9B-B69B1F3EEB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9D5F72-6033-4F0C-BE9B-B69B1F3EEB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9D5F72-6033-4F0C-BE9B-B69B1F3EEB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673A4C67-C70F-4C5C-AC23-6F722EBD487A}
+	EndGlobalSection
+EndGlobal
